@@ -15,7 +15,7 @@
     "js-sha512": "^0.8.0",
     "msgpack-lite": "git+https://github.com/algorand/msgpack-lite.git",
     "superagent": "^4.1.0",
-    "tweetnacl": "^1.0.1"
+    "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
